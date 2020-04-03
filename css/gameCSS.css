@@ -15,8 +15,9 @@ header {
 
 .start-game-button {
     background-color: #010706;
-    display: inline-block;
+    display: flex;
     margin-left: 47.5%;
+    margin-top: 10px;
 }
 
 .input-for-value {
