@@ -1,0 +1,28 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 18%, rgba(9,9,121,1) 35%, rgba(255,0,134,1) 76%);
+}
+
+header {
+    text-align: center;
+    background: rgb(41,159,17);
+    background: linear-gradient(90deg, rgba(41,159,17,1) 0%, rgba(9,121,103,1) 50%, rgba(255,0,236,1) 100%);
+    color: #010706;
+    font-style: oblique;
+}
+
+.start-game-button {
+    background-color: #010706;
+    display: inline-block;
+    margin-left: 47.5%;
+}
+
+.input-for-value {
+    display: none;
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+.input-for-value p {
+    text-align: center;
+}
