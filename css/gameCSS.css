@@ -14,9 +14,8 @@ header {
 }
 
 .start-game-button {
-    background-color: #010706;
     display: flex;
-    margin-left: 47.5%;
+    justify-content: center;
     margin-top: 10px;
 }
 
