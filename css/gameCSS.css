@@ -4,11 +4,13 @@ body {
 }
 
 header {
+    border: 6px solid rgb(103, 17, 216);
+    border-radius: 25px;
     text-align: center;
-    background: rgb(41,159,17);
-    background: linear-gradient(90deg, rgba(41,159,17,1) 0%, rgba(9,121,103,1) 50%, rgba(255,0,236,1) 100%);
     color: #010706;
     font-style: oblique;
+    background: rgb(191,39,176);
+    background: linear-gradient(90deg, rgba(191,39,176,1) 0%, rgba(96,31,115,0.8939950980392157) 50%, rgba(0,0,0,0.8911939775910365) 100%);
 }
 
 .start-game-button {
