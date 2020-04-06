@@ -31,8 +31,25 @@ header {
 
 .puzzler-guesser-block {
     display: flex;
+    flex-direction: column;
     background-color: rgb(192, 65, 65);
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 150px;
     border-radius: 15px;
+}
+
+.user-img {
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.user-name {
+    margin-left: 10px;
+}
+
+.typing-animation,
+.massage-container {
+    color: red;
 }
