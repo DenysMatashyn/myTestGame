@@ -39,10 +39,12 @@ header {
 }
 
 .user-img {
-    width: 70px;
-    height: 70px;
+    display: block;
     margin-left: 10px;
     margin-top: 10px;
+    height: 80px;
+    width: 80px;
+    border-radius: 5px;
 }
 
 .user-name {
@@ -51,5 +53,5 @@ header {
 
 .typing-animation,
 .massage-container {
-    color: red;
+    color: rgb(0, 255, 242);
 }
