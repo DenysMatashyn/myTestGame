@@ -77,22 +77,22 @@ header {
     background-color: rgb(165, 135, 121);
     overflow: hidden;
     
-    &.guesser .loader {
+    /* &.guesser .loader {
         color: rgb(252, 143, 228);
-    }
+    } */
 }
 
 .user {
     padding: 5px;
     background-color: #fff;
     
-    .nickname  {
+    /* .nickname  {
         text-align: center;
         font-size: 23px;
         margin-bottom: 0px;
         margin-top: 5px;
         color: #000;
-    }
+    } */
 }
 
 .message {
