@@ -109,3 +109,15 @@ header {
     width: 80px;
     border-radius: 5px;
 }
+
+/* sharing user styles */
+/* .block {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(192, 65, 65);
+    width: 400px;
+    height: 150px;
+    border-radius: 15px;
+    border: 4px solid rgb(139, 170, 53);
+
+} */
